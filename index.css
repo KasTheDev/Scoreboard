@@ -1,0 +1,104 @@
+body {
+    background: #1B244A;
+    margin: 0;
+    text-align: center;
+}
+
+h3{
+position: flex;
+width: 149px;
+height: 36px;
+left: 85px;
+top: 68px;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+text-align: left;
+color: #EEEEEE;
+
+}
+
+ @font-face {
+  font-family: Cursed Timer ULil;
+  src: url(CursedTimerULiL.ttf);
+}
+
+h4{
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+#plus1-btn{
+    border: 2px solid #9AABD8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #9AABD8;
+    font-family: Cursed Timer ULil;
+    font-weight: bold;
+    width: 45px;
+    height: 45px;
+    margin-top: 26px;
+    margin-bottom: 5px;
+    margin-right: 9px;
+    border-radius: 5px;
+    background: #1B244A;
+}
+
+#plus2-btn{
+    border: 2px solid #9AABD8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #9AABD8;
+    font-family: Cursed Timer ULil;
+    font-weight: bold;
+    width: 45px;
+    height: 45px;
+    margin-top: 26px;
+    margin-bottom: 5px;
+    margin-right: 9px;
+    border-radius: 5px;
+    background: #1B244A;
+}
+
+#plus3-btn{
+    border: 2px solid #9AABD8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #9AABD8;
+    font-family: Cursed Timer ULil;
+    font-weight: bold;
+    width: 45px;
+    height: 45px;
+    margin-top: 26px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: #1B244A;
+}
+
+#clear-btn{
+    border: 2px solid #9AABD8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #9AABD8;
+    font-family: Cursed Timer ULil;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+    margin-top: 26px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: darkred
+
+}
